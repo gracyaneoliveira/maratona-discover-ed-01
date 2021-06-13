@@ -8,8 +8,8 @@
 
 ## :desktop_computer: Web
 <p align="center" >
-  <img src="https://github.com/gracyaneoliveira/maratona-discover-ed-1/blob/main/assets/screen-web.png" alt="dev.finance" width="750px"><br />
-  <img src="https://github.com/gracyaneoliveira/maratona-discover-ed-1/blob/main/assets/screen-modal.png" alt="dev.finance" width="750px"><br />
+  <img src="https://github.com/gracyaneoliveira/maratona-discover-ed-01/blob/main/assets/screen-web.png" alt="dev.finance" width="750px"><br />
+  <img src="https://github.com/gracyaneoliveira/maratona-discover-ed-01/blob/main/assets/screen-modal-web.png" alt="dev.finance" width="750px"><br />
 </p>
 
 
